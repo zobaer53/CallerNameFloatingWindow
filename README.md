@@ -2,8 +2,8 @@ This Android app demonstrates examples of usage:
 1. ```BroadcastReceiver``` for catching calls.
 2. Creating a window from the ```BroadcastReceiver```.
 3. Dragging the created window.
-4. Show caller's name and number(only if contact saved).
-5. Button for Cancelng floating window
+4. Show caller's name (only if contact saved) and number.
+5. Button for Canceling floating window
 6. Works while phone is locked
 
 The following permissions are required to complete these steps:
