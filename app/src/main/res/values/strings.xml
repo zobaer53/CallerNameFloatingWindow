@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name"> Caller Number</string>
+    <string name="get_runtime_permissions">GET RUNTIME PERMISSIONS</string>
+    <string name="get_special_permissions">GET_SPECIAL_PERMISSIONS</string>
+</resources>
